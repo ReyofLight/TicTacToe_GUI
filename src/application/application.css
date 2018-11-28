@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-color: white;
+	-fx-font-size:16px;
+	-fx-font-family: "Monospace";
+	-fx-background-color:mistyrose ;
+	
+}
+.button{
+	-fx-font-size: 2em;
+}
+.mod-button{
+	-fx-background: blue;
+	
+}
